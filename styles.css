@@ -1,0 +1,11 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, table, th, td, form {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial' , sans-serif;
+	line-height: 1.6;
+	background-colour:#f4f4f4;
+	color: #333;
+}
